@@ -25,3 +25,13 @@ Selalu update branch main sebelum merge (pakai git pull)
 Kalau branch lain masih "jadul", update dulu sebelum merge:
 git checkout fitur-register
 git merge main
+
+
+## 🎯 RANGKUMAN JURUS CEPAT
+Aksi	               Perintah Git
+Pull dari main	       git pull origin main
+Push ke main	       git push origin main
+Pull dari branch	   git pull origin nama-branch
+Push ke branch	       git push origin nama-branch
+Buat branch baru	   git checkout -b nama-branch
+Merge ke main	       git checkout main → git merge nama-branch
