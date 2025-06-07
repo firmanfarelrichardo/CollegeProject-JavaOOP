@@ -1,8 +1,8 @@
-# JavaProjectPBO
+# JAVA OOP
 
 ## Clone Repository ke Komputer Lokal
-git clone https://github.com/firmanfarelrichardo/JavaProjectPBO.git
-cd JavaProjectPBO
+https://github.com/firmanfarelrichardo/CollegeProject-JavaOOP.git
+cd CollegeProject-JavaOOP
 
 ## Buat Branch Sendiri untuk Fitur Masing-Masing
 git checkout -b nama-branch
