@@ -1,8 +1,9 @@
 # JAVA OOP
+## USE BLUEJ
 
 ## Clone Repository ke Komputer Lokal
 https://github.com/firmanfarelrichardo/CollegeProject-JavaOOP.git
-cd CollegeProject-JavaOOP
+cd CollegeProject-JavaOOP dan buka di BlueJ
 
 ## Buat Branch Sendiri untuk Fitur Masing-Masing
 git checkout -b nama-branch
