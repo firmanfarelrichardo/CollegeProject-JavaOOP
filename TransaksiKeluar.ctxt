@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=TransaksiKeluar
+comment1.params=idTransaksi\ waktu\ barang\ jumlah
+comment1.target=TransaksiKeluar(java.lang.String,\ java.time.LocalDateTime,\ BarangATK,\ int)
+comment10.params=
+comment10.target=User\ getUser()
+comment11.params=user
+comment11.target=void\ setUser(User)
+comment2.params=
+comment2.target=java.lang.String\ getIdTransaksi()
+comment3.params=idTransaksi
+comment3.target=void\ setIdTransaksi(java.lang.String)
+comment4.params=
+comment4.target=java.time.LocalDateTime\ getWaktu()
+comment5.params=waktu
+comment5.target=void\ setWaktu(java.time.LocalDateTime)
+comment6.params=
+comment6.target=BarangATK\ getBarang()
+comment7.params=barang
+comment7.target=void\ setBarang(BarangATK)
+comment8.params=
+comment8.target=int\ getJumlah()
+comment9.params=jumlah
+comment9.target=void\ setJumlah(int)
+numComments=12

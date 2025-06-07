@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Gudang
+comment1.params=namaGudang
+comment1.target=Gudang(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getIdGudang()
+comment3.params=idGudang
+comment3.target=void\ setIdGudang(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getNamaGudang()
+comment5.params=namaGudang
+comment5.target=void\ setNamaGudang(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getAlamat()
+comment7.params=alamat
+comment7.target=void\ setAlamat(java.lang.String)
+numComments=8

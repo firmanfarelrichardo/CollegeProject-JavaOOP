@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Kategori
+comment1.params=namaKategori
+comment1.target=Kategori(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getIdKategori()
+comment3.params=idKategori
+comment3.target=void\ setIdKategori(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getNamaKategori()
+comment5.params=namaKategori
+comment5.target=void\ setNamaKategori(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getDeskripsi()
+comment7.params=deskripsi
+comment7.target=void\ setDeskripsi(java.lang.String)
+numComments=8

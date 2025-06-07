@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Pemasok
+comment1.params=namaPemasok
+comment1.target=Pemasok(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getIdPemasok()
+comment3.params=idPemasok
+comment3.target=void\ setIdPemasok(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getNamaPemasok()
+comment5.params=nama
+comment5.target=void\ setNamaPemasok(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getAlamat()
+comment7.params=alamat
+comment7.target=void\ setAlamat(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getKontak()
+comment9.params=kontak
+comment9.target=void\ setKontak(java.lang.String)
+numComments=10
